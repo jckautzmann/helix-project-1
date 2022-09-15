@@ -43,7 +43,7 @@ export default async function decorate(block) {
     const li = document.createElement('li');
     const a = document.createElement('a');
     a.setAttribute('href', item.path);
-    a.textContent = `${item.path} (${item.title})`;
+    a.textContent = `${item.path}`;
     li.append(a);
     ul.append(li);
   });
