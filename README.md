@@ -8,20 +8,20 @@ It features a (very) basic list block, enabling an author to display a dynamic l
 
 #### Site visitor
 
-https://main--helix-project-1--jckautzmann.hlx.live/:
+https://main--helix-project-1--jckautzmann.hlx.live/
 
 <img src="list_web.png" alt="page list on a web page" width="500"/>
 
 #### Site author
 
-drive.google.com:
+https://drive.google.com
 
 <img src="list_author.png" alt="Google docs list definition" width="500"/>
 
 #### Site developer
 
 * source code: [list.js](blocks/list/list.js)
-* index created according to the [index reference page](https://www.hlx.live/developer/indexing).
+* index created according to the [Helix index docs](https://www.hlx.live/developer/indexing).
 
 ## Environments
 - Preview: https://main--helix-project-1--jckautzmann.hlx.page/
