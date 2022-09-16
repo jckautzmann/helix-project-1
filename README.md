@@ -1,9 +1,10 @@
-# My AEM Franklin playground
+# JC's AEM Franklin playground
 
 Website created by following the AEM Franklin tutorial:
 https://www.hlx.live/developer/tutorial
 
-It features a list block, enabling an author to dynamically display a list of pages, based on a root path and a level definition:  
+It features a list block, enabling an author to dynamically display a list of pages, based on a root path and the level of descendant pages:  
+
 <img src="list_web.png" alt="page list on a web page" width="500"/>
 
 Google doc:  
