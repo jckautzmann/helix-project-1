@@ -7,13 +7,19 @@ https://www.hlx.live/developer/tutorial
 
 It features a (very) basic list block, enabling an author to dynamically display a list of pages, based on a root path and the level of descendant pages:  
 
+#### Web rendering
+
 <img src="list_web.png" alt="page list on a web page" width="500"/>
 
-Google doc:  
+#### Google doc
+
 <img src="list_author.png" alt="Google docs list definition" width="500"/>
 
-JS code:  
+#### JS code
+
 [list.js](blocks/list/list.js)
+
+#### Index
 
 Index created according to the [index reference page](https://www.hlx.live/developer/indexing).
 
