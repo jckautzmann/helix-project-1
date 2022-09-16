@@ -8,9 +8,13 @@ It features a (very) basic list block, enabling an author to display a dynamic l
 
 #### Site visitor
 
+https://main--helix-project-1--jckautzmann.hlx.live/:
+
 <img src="list_web.png" alt="page list on a web page" width="500"/>
 
-#### Site author (Google doc)
+#### Site author
+
+drive.google.com:
 
 <img src="list_author.png" alt="Google docs list definition" width="500"/>
 
