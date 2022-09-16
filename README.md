@@ -5,14 +5,14 @@ https://www.hlx.live/developer/tutorial
 
 It features a list block, enabling an author to dynamically display a list of pages, based on a root path and a level definition.
 
-Google doc:
-![Authoring](list_author.png "Authoring")
+Google doc:  
+<img src="list_author.png" alt="Google docs list definition" width="500"/>
 
-Web site:
-<img src="list_web.png" alt="page list on a web page" height="200"/>
+Web site:  
+<img src="list_web.png" alt="page list on a web page" width="500"/>
 
-JS code:
-[Code](blocks/list/list.js)
+JS code:  
+[list.js](blocks/list/list.js)
 
 ## Environments
 - Preview: https://main--helix-project-1--jckautzmann.hlx.page/
