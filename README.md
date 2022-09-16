@@ -1,9 +1,22 @@
-# Your Project's Title...
-Your project's description...
+# My AEM Franklin playground
+
+Website created by following the AEM Franklin tutorial:
+https://www.hlx.live/developer/tutorial
+
+It features a list block, enabling an author to dynamically display a list of pages, based on a root path and a level definition.
+
+Google doc:
+![Authoring](list_author.png "Authoring")
+
+Web site:
+<img src="list_web.png" alt="page list on a web page" height="200"/>
+
+JS code:
+[Code](blocks/list/list.js)
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--helix-project-1--jckautzmann.hlx.page/
+- Live: https://main--helix-project-1--jckautzmann.hlx.live/
 
 ## Installation
 
