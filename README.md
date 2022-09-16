@@ -3,7 +3,9 @@
 Website created by following the AEM Franklin tutorial:
 https://www.hlx.live/developer/tutorial
 
-It features a list block, enabling an author to dynamically display a list of pages, based on a root path and the level of descendant pages:  
+## List Block (Component)
+
+It features a (very) basic list block, enabling an author to dynamically display a list of pages, based on a root path and the level of descendant pages:  
 
 <img src="list_web.png" alt="page list on a web page" width="500"/>
 
@@ -12,6 +14,8 @@ Google doc:
 
 JS code:  
 [list.js](blocks/list/list.js)
+
+Index created according to the [index reference page](https://www.hlx.live/developer/indexing).
 
 ## Environments
 - Preview: https://main--helix-project-1--jckautzmann.hlx.page/
