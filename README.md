@@ -1,4 +1,4 @@
-# JC's AEM Franklin playground
+# JC's playground with Helix
 
 Website created by following the AEM Franklin tutorial:
 https://www.hlx.live/developer/tutorial
