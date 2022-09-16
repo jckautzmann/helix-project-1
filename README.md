@@ -1,27 +1,23 @@
 # JC's playground with Helix
 
-Website created by following the AEM Franklin tutorial:
-https://www.hlx.live/developer/tutorial
+Website created by following the Helix [tutorial](https://www.hlx.live/developer/tutorial).
 
 ## List Block (Component)
 
-It features a (very) basic list block, enabling an author to dynamically display a list of pages, based on a root path and the level of descendant pages:  
+It features a (very) basic list block, enabling an author to display a dynamic list of pages, based on a root path and the level of descendant pages.  
 
-#### Web rendering
+#### Site visitor
 
 <img src="list_web.png" alt="page list on a web page" width="500"/>
 
-#### Google doc
+#### Site author (Google doc)
 
 <img src="list_author.png" alt="Google docs list definition" width="500"/>
 
-#### JS code
+#### Site developer
 
-[list.js](blocks/list/list.js)
-
-#### Index
-
-Index created according to the [index reference page](https://www.hlx.live/developer/indexing).
+* source code: [list.js](blocks/list/list.js)
+* index created according to the [index reference page](https://www.hlx.live/developer/indexing).
 
 ## Environments
 - Preview: https://main--helix-project-1--jckautzmann.hlx.page/
