@@ -33,6 +33,7 @@ async function updateSearchResults(e) {
 
 export default async function decorate(block) {
   const input = document.createElement('input');
+  input.placeholder = 'search ...';
   const results = document.createElement('div');
   block.append(input);
   block.append(results);
