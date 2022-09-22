@@ -1,10 +1,14 @@
+/**
+ * We assume that the Word/Google doc contains a table with 2 columns:
+ * one with the images, one with the links
+ */
 export default function decorate(block) {
-  for (let i = 0; i < block.children.length; i++) {
+  for (let i = 0; i < block.children.length; i += 1) {
     const item = block.children[i];
     const divWithImg = item.children[0];
     const url = item.children[1].innerText;
     const anchor = document.createElement('a');
-    anchor.setAttribute('href', url)
+    anchor.setAttribute('href', url);
     anchor.innerHTML = divWithImg.innerHTML;
     item.replaceChild(anchor, divWithImg);
     item.children[1].remove();
